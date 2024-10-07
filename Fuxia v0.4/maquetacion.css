@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#conta{
+	width: 500px;
+	height: 500px;
+	border: 1px;
+	border-color: #000000;
+	border-style: solid;
+	border-spacing: 30px;
+}
+#mar-top{
+	height: 100px;
+	padding-top: 0;
+	background: #E014FF;
+	text-align: center;
+}
+#mar-med{
+	height: 20px;
+	width: 20px;
+}
+#mar-bott{
+	height: 100px;
+	scroll-padding: 0;
+	background: #E014FF;
+	padding-top: 20px;
+	padding-bottom: auto;
+	text-align: center;
+}
+#text{
+	height: 800px;
+	width: 700px;
+	padding-right: 0;
+}
